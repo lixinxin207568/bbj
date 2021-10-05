@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('../ttf/CircleMenu.ttf?t=1633410222005') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-nanzhuang:before {
+  content: "\e7b5";
+}
+
+.icon-nvzhuang:before {
+  content: "\e7b7";
+}
+
+.icon-jiajubaihuo:before {
+  content: "\e63e";
+}
+
+.icon-xiebaopeishileimu:before {
+  content: "\e6f4";
+}
+
+.icon-shouyeshipin:before {
+  content: "\e61e";
+}
+
+.icon-zu:before {
+  content: "\e616";
+}
+
+.icon-tongzhuang:before {
+  content: "\e68c";
+}
+
